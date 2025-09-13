@@ -1,6 +1,12 @@
 #This file contains all information related to admin credentials for email,
 # db etc.
-
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': 'db.sqlite3',
+    }
+    
+}
 
 EMAIL_HOST = 'YOUR HOST'
 EMAIL_PORT = 'YOUR HOST PORT'
