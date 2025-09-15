@@ -45,18 +45,18 @@ The hardest part was making the interface modern and clean while keeping the ori
 Screenshots:
 ## before making changes
 
-![Forgot Password Page](images/forgotpwd.png)
-![Registration Page](images/registration.png)
-![SignIn Page](images/signin.png)
-![Workshop Page](images/workshop.png)
+![Forgot Password Page](forgotpwd.png)
+![Registration Page](registration.png)
+![SignIn Page](signin.png)
+![Workshop Page](workshop.png)
 
 
 ## After making changes 
 
-![Forgot Password Page](images/newforgotpwd.png)
-![Registration Page](images/newreg.png)
-![SignIn Page](images/newsignin.png)
-![Workshop Page](images/newworkshop.png)
+![Forgot Password Page](newforgotpwd.png)
+![Registration Page](newreg.png)
+![SignIn Page](newsignin.png)
+![Workshop Page](newworkshop.png)
 
 ## Setup Instructions
 
